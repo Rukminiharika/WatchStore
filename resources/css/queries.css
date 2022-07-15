@@ -67,7 +67,7 @@
     font-size: 120%;
     margin-top: 20px;
     }
-
+}
 /*---small phones to small tablets:from 481 to 767px---*/
 @media only screen and (max-width: 767px){
     section{padding: 40px 0px; }
